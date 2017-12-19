@@ -1,0 +1,14 @@
+E:\Code\Zoo\BT1\bin\Debug\BT1.exe.config
+E:\Code\Zoo\BT1\bin\Debug\BT1.exe
+E:\Code\Zoo\BT1\bin\Debug\BT1.pdb
+E:\Code\Zoo\BT1\obj\Debug\BT1.exe
+E:\Code\Zoo\BT1\obj\Debug\BT1.pdb
+E:\Code\Zoo\BT1\obj\Debug\Abstract_Class.csprojResolveAssemblyReference.cache
+E:\Code\Zoo\BT1\obj\Debug\Abstract_Class.csproj.CoreCompileInputs.cache
+E:\Code\Zoo\Abstract_Class\bin\Debug\BT1.exe.config
+E:\Code\Zoo\Abstract_Class\bin\Debug\BT1.exe
+E:\Code\Zoo\Abstract_Class\bin\Debug\BT1.pdb
+E:\Code\Zoo\Abstract_Class\obj\Debug\Abstract_Class.csprojResolveAssemblyReference.cache
+E:\Code\Zoo\Abstract_Class\obj\Debug\Abstract_Class.csproj.CoreCompileInputs.cache
+E:\Code\Zoo\Abstract_Class\obj\Debug\BT1.exe
+E:\Code\Zoo\Abstract_Class\obj\Debug\BT1.pdb
