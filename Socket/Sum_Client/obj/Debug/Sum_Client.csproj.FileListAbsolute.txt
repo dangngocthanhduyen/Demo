@@ -1,0 +1,6 @@
+E:\HK5\Demo\Demo\Socket\Sum_Client\bin\Debug\Sum_Client.exe.config
+E:\HK5\Demo\Demo\Socket\Sum_Client\bin\Debug\Sum_Client.exe
+E:\HK5\Demo\Demo\Socket\Sum_Client\bin\Debug\Sum_Client.pdb
+E:\HK5\Demo\Demo\Socket\Sum_Client\obj\Debug\Sum_Client.csproj.CoreCompileInputs.cache
+E:\HK5\Demo\Demo\Socket\Sum_Client\obj\Debug\Sum_Client.exe
+E:\HK5\Demo\Demo\Socket\Sum_Client\obj\Debug\Sum_Client.pdb

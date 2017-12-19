@@ -1,0 +1,7 @@
+E:\HK5\Demo\Demo\Socket\Sum_Server\bin\Debug\Sum_Server.exe.config
+E:\HK5\Demo\Demo\Socket\Sum_Server\bin\Debug\Sum_Server.exe
+E:\HK5\Demo\Demo\Socket\Sum_Server\bin\Debug\Sum_Server.pdb
+E:\HK5\Demo\Demo\Socket\Sum_Server\obj\Debug\Sum_Server.csprojResolveAssemblyReference.cache
+E:\HK5\Demo\Demo\Socket\Sum_Server\obj\Debug\Sum_Server.csproj.CoreCompileInputs.cache
+E:\HK5\Demo\Demo\Socket\Sum_Server\obj\Debug\Sum_Server.exe
+E:\HK5\Demo\Demo\Socket\Sum_Server\obj\Debug\Sum_Server.pdb
